@@ -1,2 +1,2 @@
 # docker-haproxy
-A first cut at a custom HAProxy containerizer.
+HAProxy container with OpenSSH/FIPS and rsyslog installed.
